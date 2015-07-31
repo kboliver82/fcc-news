@@ -1,0 +1,15 @@
+body {
+  background: #9B8F89;
+}
+
+.article {
+  background: #FFF;
+  width: 200px;
+  display: inline-block;
+  padding: 5px;
+  margin: 10px;
+}
+
+a:hover {
+  text-decoration: none;
+}
